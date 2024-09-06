@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/96/62/f9/9662f9d0b3df22f01681b9b2344665bb.gif"  />
+  <img height="250" src="https://i.pinimg.com/originals/96/62/f9/9662f9d0b3df22f01681b9b2344665bb.gif"  />
 </div>
 
 ###
@@ -17,9 +17,15 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/88/98/8d/88988d042f15a577857c694995cadd69.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/b2/eb/42/b2eb426c602cc4e6d7e6f74498ebe664.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
@@ -56,7 +62,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasminTremere&radius=16&theme=redical&area=true&order=5&hide_border=true" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JasminTremere&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
