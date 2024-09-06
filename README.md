@@ -50,9 +50,13 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C70424&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C80061&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  <a href="www.linkedin.com/in/yasmin-maria-rodrigues-menardo-75790228a" target="_blank">
+  <a href="yasminmariarmenardo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C70424&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/_kitty_dead_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C80061&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/yasmin-maria-rodrigues-menardo-75790228a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=002472&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
 </div>
